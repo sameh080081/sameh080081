@@ -9,16 +9,8 @@ Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, AP
 
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   6 hrs 52 mins   ████████████████████░░░░░   79.78 %
-SCSS         1 hr 42 mins    █████░░░░░░░░░░░░░░░░░░░░   19.89 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
-<!--END_SECTION:waka-->
+1-awsome books project: check <a href="https://sameh080081.github.io/MyAwsomeBooks/">here</a>
+2-todo list project: check <a href="https://sameh080081.github.io/To-Do-List/">here</a> 
 
 
 
