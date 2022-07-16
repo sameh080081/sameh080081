@@ -6,6 +6,7 @@ Hi, I'm tantawy 👋
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
 Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
+### one important thing about me " i alwayes get the job done"
 
 ### This week I spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
