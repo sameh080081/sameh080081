@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-tantawy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sameh-tantawy-aa587714b/)](https://www.linkedin.com/in/sameh-tantawy-aa587714b/)
 [![Twitter Badge](https://img.shields.io/badge/-@tantawy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sameh080081)](https://twitter.com/sameh080081)
 
-![SAMEH TANTAWY](https://user-images.githubusercontent.com/32967842/179351818-c72f9581-bd01-49b1-b020-3e91cef9e540.png)
+![SAMEH TANTAWY](https://user-images.githubusercontent.com/32967842/179353200-0a40702f-9b03-4ca9-a586-19a094755bfd.png)
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
 Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
