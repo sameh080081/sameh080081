@@ -4,9 +4,11 @@
 
 ![SAMEH TANTAWY](giphy.gif)
 
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
-Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
-### one important thing about me " i alwayes get the job done"
+Hi, my name is Sameh Tantawy, I graduated from the faculty of computers and information with a computer science bachelor's degree. I also studied at Microverse, a fully remote software development school.
+While a student at Microverse and my college, I have worked on various projects using programming languages, frameworks, and libraries such as JHTML5, CSS3, Bootstrap, JavaScript, React, Redux, SQL, Ruby & Ruby on Rails, among other front-end technologies. I have also been engaged in pair programming and peer-to-peer review weekly which has helped me get the feel of a real-life software developer’s experience.
+Another thing about me is that I always get the job done as I work perfectly against deadlines at Microverse every week. I am also looking to learn new things while at the same time polishing the skills that I already have.
+most company values are to create unbreakable products, fast maintenance, and beautiful updates. I would love to be aligned with your company as I can help you achieve exactly that by being a full-stack software developer at your company.
+If you are available this week I would love to sit down with you to talk about what I could bring to your development team.
 
 ### This week I was able to do and spent my time on<img src="https://media.giphy.com/media/SvQzkTQb3ZwKcj1QTO/giphy.gif" width="40">
 
