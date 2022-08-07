@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-tantawy-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sameh-tantawy-aa587714b/)](https://www.linkedin.com/in/sameh-tantawy-aa587714b/)
 [![Twitter Badge](https://img.shields.io/badge/-@tantawy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sameh080081)](https://twitter.com/sameh080081)
 
-![SAMEH TANTAWY](https://drive.google.com/file/d/1N2tgidIzLWYZB-c8N_B6hO6jZTR8LePi/view?usp=sharing/Brown Wood Minimalist Profile LinkedIn Banner.gif)
+![SAMEH TANTAWY](giphy.gif)
 
 I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community.
 Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL.
